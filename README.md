@@ -12,10 +12,6 @@
   <a href="https://www.linkedin.com/in/johmich/">
     <img alt="Johannes | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/locojoetive">
-    <img alt="Johannes | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-  </a>
 </p>
 
 <h1></h1>
