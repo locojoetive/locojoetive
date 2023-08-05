@@ -5,10 +5,6 @@
     <img alt="Johannes | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/locojoetive">
-    <img alt="Johannes | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/johmich/">
     <img alt="Johannes | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
@@ -16,10 +12,9 @@
 
 <h1></h1>
 You can play some of the games :video_game: I developed or helped to develop here:
-
-[Dodge or Die!](https://frobros.itch.io/dodge-or-die) (PC Browser 1P/2P)
+[Tangled Vines](https://paranoidgiants.itch.io/tangled-vines) (PC Browser)
 <br>
-[Paper Fighter](https://frobros.itch.io/paper-fighter) (Mobile Browser)
+[Dodge or Die!](https://frobros.itch.io/dodge-or-die) (PC Browser 1P/2P)
 <br>
 [Dungeon Soccer](https://frobros.itch.io/dungeon-soccer) (PC Browser 2P-only) 
 <br>
