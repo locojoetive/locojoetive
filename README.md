@@ -1,5 +1,5 @@
-<h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<h2> I am a self-taught game developer</h2>
+<h1>Hi there</h1>
+<h2>I am a self-taught game developer</h2>
 
 You can play some of my projects here:
 <br>
@@ -11,14 +11,3 @@ You can play some of my projects here:
 <br>
 
 Feel free to reach out📫: johannes.mic@gmail.com
-<br>
-<br>
-<br>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locojoetive&theme=radical&layout=compact"/>
-</p>
-<br>
-<br>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=locojoetive&theme=radical&show_icons=true&hide=stars,issues"/>
-</p>
