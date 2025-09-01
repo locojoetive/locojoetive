@@ -1,7 +1,4 @@
-<h1>Hi there</h1>
-<h2>I am a self-taught game developer</h2>
-
-You can play some of my projects here:
+<h1>You can play some of my games here</h1>
 <br>
 [Tangled Vines](https://paranoidgiants.itch.io/tangled-vines) (PC Browser)
 <br>
